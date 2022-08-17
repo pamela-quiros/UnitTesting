@@ -1,0 +1,28 @@
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/bin/Debug/net6.0/ClassLibrary2.deps.json
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/bin/Debug/net6.0/ClassLibrary2.dll
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/bin/Debug/net6.0/ClassLibrary2.pdb
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.csproj.AssemblyReference.cache
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.AssemblyInfoInputs.cache
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.AssemblyInfo.cs
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.csproj.CoreCompileInputs.cache
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.dll
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/refint/ClassLibrary2.dll
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.pdb
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ref/ClassLibrary2.dll
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/bin/Debug/net6.0/ClassLibrary2.runtimeconfig.json
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.genruntimeconfig.cache
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/bin/Debug/net6.0/ClassLibrary2.deps.json
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/bin/Debug/net6.0/ClassLibrary2.runtimeconfig.json
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/bin/Debug/net6.0/ClassLibrary2.dll
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/bin/Debug/net6.0/ref/ClassLibrary2.dll
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/bin/Debug/net6.0/ClassLibrary2.pdb
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.csproj.AssemblyReference.cache
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.AssemblyInfoInputs.cache
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.AssemblyInfo.cs
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.csproj.CoreCompileInputs.cache
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.dll
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ref/ClassLibrary2.dll
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.pdb
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/obj/Debug/net6.0/ClassLibrary2.genruntimeconfig.cache

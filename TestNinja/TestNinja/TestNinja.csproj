@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
+    <ProjectGuid>{69340474-BC08-4E90-9C8C-AD9EE70F92C3}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>TestNinja</RootNamespace>
+    <AssemblyName>TestNinja</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|anycpu' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Fundamentals\CustomerController.cs" />
+    <Compile Include="Fundamentals\DateHelper.cs" />
+    <Compile Include="Fundamentals\DemeritPointsCalculator.cs" />
+    <Compile Include="Fundamentals\ErrorLogger.cs" />
+    <Compile Include="Fundamentals\FizzBuzz.cs" />
+    <Compile Include="Fundamentals\HtmlFormatter.cs" />
+    <Compile Include="Fundamentals\Math.cs" />
+    <Compile Include="Fundamentals\PhoneNumber.cs" />
+    <Compile Include="Fundamentals\Reservation.cs" />
+    <Compile Include="Fundamentals\Stack.cs" />
+    <Compile Include="Mocking\BookingHelper.cs" />
+    <Compile Include="Mocking\EmployeeController.cs" />
+    <Compile Include="Mocking\InstallerHelper.cs" />
+    <Compile Include="Mocking\OrderService.cs" />
+    <Compile Include="Mocking\Product.cs" />
+    <Compile Include="Mocking\VideoService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Fundamentals\" />
+    <Folder Include="Mocking\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

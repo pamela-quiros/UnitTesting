@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/ClassLibrary2.csproj": {}
+  },
+  "projects": {
+    "/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/ClassLibrary2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/ClassLibrary2.csproj",
+        "projectName": "ClassLibrary2",
+        "projectPath": "/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/ClassLibrary2.csproj",
+        "packagesPath": "/Users/pamela.quiros/.nuget/packages/",
+        "outputPath": "/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/ClassLibrary2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pamela.quiros/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

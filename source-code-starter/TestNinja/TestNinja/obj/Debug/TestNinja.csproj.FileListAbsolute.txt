@@ -1,0 +1,41 @@
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/TestNinja.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/TestNinja.pdb
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.csprojResolveAssemblyReference.cache
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.CoreCompileInputs.cache
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.pdb
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/TestNinja.dll.config
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/bin/Debug/TestNinja.dll.config
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/bin/Debug/TestNinja.dll
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/bin/Debug/TestNinja.pdb
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/bin/Debug/EntityFramework.dll
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.dll
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.dll
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.AssemblyReference.cache
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.CoreCompileInputs.cache
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.CopyComplete
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.dll
+C:/Users/v-pquiros/Desktop/source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.pdb
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/bin/Debug/TestNinja.dll.config
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/bin/Debug/TestNinja.dll
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/bin/Debug/TestNinja.pdb
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/bin/Debug/EntityFramework.dll
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.dll
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.dll
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.CoreCompileInputs.cache
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.CopyComplete
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.dll
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.pdb
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.AssemblyReference.cache

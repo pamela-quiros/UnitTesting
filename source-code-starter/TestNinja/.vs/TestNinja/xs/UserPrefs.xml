@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{7F8767F1-3A04-4CC3-84E7-DAFE675BE307}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestProject1/Mocking/BookingHelpersTests.cs">
+    <Files>
+      <File FileName="TestNinja/Mocking/BookingHelper.cs" Line="14" Column="48" />
+      <File FileName="TestProject1/Mocking/BookingHelpersTests.cs" Line="126" Column="1" />
+      <File FileName="TestNinja/Mocking/BookingRepository.cs" Line="11" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestNinja" expanded="True" selected="True">
+            <Node name="TestNinja" expanded="True">
+              <Node name="Mocking" expanded="True" />
+            </Node>
+            <Node name="TestNinja.UnitTests" expanded="True">
+              <Node name="Mocking" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TestNinja" expanded="True">
+            <Node name="TestNinja.UnitTests" expanded="True">
+              <Node name="TestNinja.UnitTests.Mocking" expanded="True">
+                <Node name="BookingHelpers_OverlappingBookingExistsTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestNinja.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

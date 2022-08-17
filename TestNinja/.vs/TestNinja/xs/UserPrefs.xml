@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{69340474-BC08-4E90-9C8C-AD9EE70F92C3}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestNinja PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestNinja/Mocking/BookingHelper.cs">
+    <Files>
+      <File FileName="TestNinja/Mocking/BookingHelper.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestNinja" expanded="True">
+            <Node name="TestNinja" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Fundamentals" expanded="True" />
+              <Node name="Mocking" expanded="True">
+                <Node name="BookingHelper.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

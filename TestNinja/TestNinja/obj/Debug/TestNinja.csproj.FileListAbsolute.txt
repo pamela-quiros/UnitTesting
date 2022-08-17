@@ -1,0 +1,2 @@
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.AssemblyReference.cache
+/Users/pamela.quiros/Desktop/Personal/Learning/Unit Testing/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.CoreCompileInputs.cache
